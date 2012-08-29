@@ -1,0 +1,6 @@
+_ReSharper
+bin/*
+*.suo
+Core/obj
+Test/bin
+Output/obj
